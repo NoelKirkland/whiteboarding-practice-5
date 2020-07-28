@@ -1,0 +1,12 @@
+a self dividing number == a number which can be divided by every number in it.
+
+128 == sdv
+(128 % 1 = 0)
+(128 % 2 = 0)
+(128 % 8 = 0)
+
+bounds: lower, upper
+
+two integers as argument: lower and upper
+
+note: left and right >=1 && <=10,000
